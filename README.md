@@ -28,5 +28,5 @@ churn. Thus, our focus would be on
 
 1. telecom-churn-case-study.ipynb : The python file showing coding and data analysis
 2. Telecom churn case study.pdf : Final Presentation
-3. telecom_churn_data.csv : Data worked on
+3. telecom_churn_data.zip --> telecom_churn_data.csv : Data worked on
 4. Data+Dictionary-+Telecom+Churn+Case+Study.xlsx : Data Dictionary
